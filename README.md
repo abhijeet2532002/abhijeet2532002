@@ -14,9 +14,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working in **OurNinjas**
+- 🔭 I’m currently working in [OurNinjas](https://github.com/RaunakShrivastwa/ninjasteam/tree/abhi)
 - 🌱 I’m currently learning **SCSS, GSAP, BLENDER**
-- 👯 I’m looking to collaborate on **E-Cart**
+- 👯 I’m looking to collaborate on [E-Cart](https://github.com/abhijeet2532002/E-Com)
 - 🤝 My Freelancing Project **EduHub**
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/abhijeet2532002/)
 - 📝 I regularly Learn Documentation at **GeeksforGeeks**
