@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://x.com/Abhijee1877073" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@Abhijee1877073?logo=twitter&style=for-the-badge" alt="@Abhijee1877073" />
+    <img src="https://img.shields.io/twitter/follow/Abhijee1877073?logo=twitter&style=for-the-badge" alt="@Abhijee1877073" />
   </a>
 </p>
 
