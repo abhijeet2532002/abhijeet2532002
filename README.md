@@ -68,10 +68,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet2532002" alt="GitHub Streak" />
 </p>
 
-<p>&nbsp;
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeet2532002&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
+<p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet2532002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
