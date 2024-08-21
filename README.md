@@ -45,6 +45,9 @@
   <a href="https://www.geeksforgeeks.org/user/abhijeetkumar2532002/" style="margin-right: 20px;">
       <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" width="178"/>
   </a>
+  <a href="https://www.naukri.com/code360/profile/Abhijeetkumar" style="margin-right: 20px;">
+      <img src="https://img.shields.io/badge/Coding%20Ninja-000000?style=flat-square&logo=codingninjas&logoColor=white" alt="Coding Ninja" width="150"/>
+  </a>  
 </p>
 
 ## Skills:
