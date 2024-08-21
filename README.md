@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"/>
+    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin+logo&page=1&position=1&origin=tag&related_id=3536505" alt="LinkedIn" width="150"/>
   </a>
   <a href="https://www.facebook.com/yourprofile">
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" width="150"/>
