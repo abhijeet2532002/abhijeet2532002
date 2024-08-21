@@ -1,3 +1,19 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhijeet2532002&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet2532002" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhijeet2532002" alt="abhijeet2532002" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/@teamshubham_" target="blank">
+    <img src="https://img.shields.io/twitter/follow/@teamshubham_?logo=twitter&style=for-the-badge" alt="@teamshubham_" />
+  </a>
+</p>
+
 ## Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/java-abhijeet/">
