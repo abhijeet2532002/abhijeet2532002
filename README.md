@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" width="128"/>
   </a>
   <a href="https://www.hackerrank.com/profile/abhijeetkumar251">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" width="100"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" width="148"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/abhijeetkumar2532002/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" width="100"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" width="158"/>
   </a>
 </p>
