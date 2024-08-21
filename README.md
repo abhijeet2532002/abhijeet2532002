@@ -32,36 +32,36 @@
 
 ### Frontend Development:
 <p align="left">
-  <img src="https://img.shields.io/badge/React-Advanced-blue" alt="React Advanced">
-  <img src="https://img.shields.io/badge/Redux-Advanced-blue" alt="Redux Advanced">
-  <img src="https://img.shields.io/badge/Bootstrap-Advanced-blue" alt="Bootstrap Advanced">
-  <img src="https://img.shields.io/badge/SCSS-Intermediate-yellow" alt="SCSS Intermediate">
+  <img src="https://img.shields.io/badge/React-Advanced-blue" alt="React Advanced" height="25">
+  <img src="https://img.shields.io/badge/Redux-Advanced-blue" alt="Redux Advanced" height="25">
+  <img src="https://img.shields.io/badge/Bootstrap-Advanced-blue" alt="Bootstrap Advanced" height="25">
+  <img src="https://img.shields.io/badge/SCSS-Intermediate-yellow" alt="SCSS Intermediate" height="25">
 </p>
 
 ### Backend Development:
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-Intermediate-yellow" alt="Node.js Intermediate">
-  <img src="https://img.shields.io/badge/Express.js-Intermediate-yellow" alt="Express.js Intermediate">
-  <img src="https://img.shields.io/badge/Spring Boot-Intermediate-yellow" alt="Spring Boot Intermediate">
-  <img src="https://img.shields.io/badge/Django-Intermediate-yellow" alt="Django Intermediate">
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-yellow" alt="Node.js Intermediate" height="25">
+  <img src="https://img.shields.io/badge/Express.js-Intermediate-yellow" alt="Express.js Intermediate" height="25">
+  <img src="https://img.shields.io/badge/Spring Boot-Intermediate-yellow" alt="Spring Boot Intermediate" height="25">
+  <img src="https://img.shields.io/badge/Django-Intermediate-yellow" alt="Django Intermediate" height="25">
 </p>
 
 ### Databases:
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-Intermediate-yellow" alt="MongoDB Intermediate">
-  <img src="https://img.shields.io/badge/MySQL-Advanced-blue" alt="MySQL Advanced">
-  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-blue" alt="PostgreSQL Advanced">
-  <img src="https://img.shields.io/badge/SQLite-Advanced-blue" alt="SQLite Advanced">
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-yellow" alt="MongoDB Intermediate" height="25">
+  <img src="https://img.shields.io/badge/MySQL-Advanced-blue" alt="MySQL Advanced" height="25">
+  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-blue" alt="PostgreSQL Advanced" height="25">
+  <img src="https://img.shields.io/badge/SQLite-Advanced-blue" alt="SQLite Advanced" height="25">
 </p>
 
 ### Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-Expert-orange" alt="Git Expert">
-  <img src="https://img.shields.io/badge/GitHub-Expert-orange" alt="GitHub Expert">
-  <img src="https://img.shields.io/badge/VS Code-Expert-orange" alt="VS Code Expert">
-  <img src="https://img.shields.io/badge/Heroku-Expert-orange" alt="Heroku Expert">
-  <img src="https://img.shields.io/badge/Docker-Expert-orange" alt="Docker Expert">
-  <img src="https://img.shields.io/badge/Jenkins-Expert-orange" alt="Jenkins Expert">
+  <img src="https://img.shields.io/badge/Git-Expert-orange" alt="Git Expert" height="25">
+  <img src="https://img.shields.io/badge/GitHub-Expert-orange" alt="GitHub Expert" height="25">
+  <img src="https://img.shields.io/badge/VS Code-Expert-orange" alt="VS Code Expert" height="25">
+  <img src="https://img.shields.io/badge/Heroku-Expert-orange" alt="Heroku Expert" height="25">
+  <img src="https://img.shields.io/badge/Docker-Expert-orange" alt="Docker Expert" height="25">
+  <img src="https://img.shields.io/badge/Jenkins-Expert-orange" alt="Jenkins Expert" height="25">
 </p>
 
 <p>
