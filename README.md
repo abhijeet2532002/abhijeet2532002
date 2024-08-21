@@ -17,11 +17,11 @@
 - 🔭 I’m currently working in [OurNinjas](https://github.com/RaunakShrivastwa/ninjasteam/tree/abhi)
 - 🌱 I’m currently learning **SCSS, GSAP, BLENDER**
 - 👯 I’m looking to collaborate on [E-Cart](https://github.com/abhijeet2532002/E-Com)
-- 🤝 My Freelancing Project **EduHub**
+- 🤝 My Freelancing Project [EduHub](https://github.com/abhijeet2532002/EduHub)
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/abhijeet2532002/)
 - 📝 I regularly Learn Documentation at **GeeksforGeeks**
 - 💬 Ask me about **DSA and Website Development**
-- 📫 How to reach me: **connect2abhijeet25@outlook.com**
+- 📫 How to reach me: **connect2abhijeet25@outlook.com**()
 - 📄 Know about my experiences: [Resume](https://ninjasfiles.s3.amazonaws.com/Abhijeet%20Fullstack.pdf_94b8755ee60d83f298d84f361f19ee5d/Abhijeet%20Fullstack.pdf)
 - ⚡ Fun fact: **I Think I am Funny**
 
