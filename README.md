@@ -49,8 +49,7 @@
 
 ## Skills:
 
-<img src="https://komarev.com/ghpvc/?username=abhijeet2532002&label=Languages%02:%02&color=0e75b6&style=flat" alt="abhijeet2532002" />
-
+### Languages:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert" height="25">
   <img src="https://img.shields.io/badge/CSS3-Advanced-blue" alt="CSS3 Advanced" height="25">
