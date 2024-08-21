@@ -14,6 +14,17 @@
   </a>
 </p>
 
+- 🔭 I’m currently working in **OurNinjas**
+- 🌱 I’m currently learning **SCSS, GSAP, BLENDER**
+- 👯 I’m looking to collaborate on **E-Cart**
+- 🤝 My Freelancing Project **EduHub**
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/abhijeet2532002/)
+- 📝 I regularly Learn Documentation at **GeeksforGeeks**
+- 💬 Ask me about **DSA and Website Development**
+- 📫 How to reach me: **connect2abhijeet25@outlook.com**
+- 📄 Know about my experiences: [Resume](https://ninjasfiles.s3.amazonaws.com/Abhijeet%20Fullstack.pdf_94b8755ee60d83f298d84f361f19ee5d/Abhijeet%20Fullstack.pdf)
+- ⚡ Fun fact: **I Think I am Funny**
+
 ## Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/java-abhijeet/">
