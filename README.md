@@ -27,9 +27,6 @@
   <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert">
   <img src="https://img.shields.io/badge/CSS3-Advanced-blue" alt="CSS3 Advanced">
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" alt="JavaScript Intermediate">
-  <img src="https://img.shields.io/badge/Python-Intermediate-yellow" alt="Python Intermediate">
-  <img src="https://img.shields.io/badge/C++-Intermediate-yellow" alt="C++ Intermediate">
-  <img src="https://img.shields.io/badge/C%23-Intermediate-yellow" alt="C# Intermediate">
   <img src="https://img.shields.io/badge/Java-Expert-orange" alt="Java Expert">
 </p>
 
