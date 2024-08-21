@@ -1,5 +1,3 @@
-<img src="https://github.com/RaunakShrivastwa/shubhamProfile/assets/121729066/ad9c3b51-61d6-4628-9be4-773eaf7c4d27" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhijeet2532002&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet2532002" />
 </p>
@@ -51,7 +49,8 @@
 
 ## Skills:
 
-### Languages:
+<img src="https://komarev.com/ghpvc/?username=abhijeet2532002&label=Languages%02:%02&color=0e75b6&style=flat" alt="abhijeet2532002" />
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert" height="25">
   <img src="https://img.shields.io/badge/CSS3-Advanced-blue" alt="CSS3 Advanced" height="25">
