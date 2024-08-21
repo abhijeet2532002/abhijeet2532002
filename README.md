@@ -24,10 +24,10 @@
 
 ### Languages:
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert" height="40">
-  <img src="https://img.shields.io/badge/CSS3-Advanced-blue" alt="CSS3 Advanced" height="40">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" alt="JavaScript Intermediate" height="40">
-  <img src="https://img.shields.io/badge/Java-Expert-orange" alt="Java Expert" height="40">
+  <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert" height="20">
+  <img src="https://img.shields.io/badge/CSS3-Advanced-blue" alt="CSS3 Advanced" height="20">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" alt="JavaScript Intermediate" height="20">
+  <img src="https://img.shields.io/badge/Java-Expert-orange" alt="Java Expert" height="20">
 </p>
 
 ### Frontend Development:
