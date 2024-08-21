@@ -27,7 +27,7 @@
 
 ## Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/java-abhijeet/" style="margin-left: 20px;">
+  <a href="https://www.linkedin.com/in/java-abhijeet/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100035690567591">
