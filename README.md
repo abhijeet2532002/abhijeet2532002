@@ -88,6 +88,8 @@
   <img src="https://img.shields.io/badge/Heroku-Expert-orange" alt="Heroku Expert" height="25">
 </p>
 
+## Stats:
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeet2532002&show_icons=true&locale=en" alt="GitHub Stats" height="200" />
 </p>
