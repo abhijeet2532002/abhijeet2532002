@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Node.js-Intermediate-yellow" alt="Node.js Intermediate" height="25">
   <img src="https://img.shields.io/badge/Express.js-Intermediate-yellow" alt="Express.js Intermediate" height="25">
   <img src="https://img.shields.io/badge/Spring Boot-Intermediate-yellow" alt="Spring Boot Intermediate" height="25">
-  <img src="https://img.shields.io/badge/Django-Intermediate-yellow" alt="Django Intermediate" height="25">
 </p>
 
 ### Databases:
@@ -60,16 +59,14 @@
   <img src="https://img.shields.io/badge/GitHub-Expert-orange" alt="GitHub Expert" height="25">
   <img src="https://img.shields.io/badge/VS Code-Expert-orange" alt="VS Code Expert" height="25">
   <img src="https://img.shields.io/badge/Heroku-Expert-orange" alt="Heroku Expert" height="25">
-  <img src="https://img.shields.io/badge/Docker-Expert-orange" alt="Docker Expert" height="25">
-  <img src="https://img.shields.io/badge/Jenkins-Expert-orange" alt="Jenkins Expert" height="25">
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeet2532002&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeet2532002&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet2532002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet2532002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
