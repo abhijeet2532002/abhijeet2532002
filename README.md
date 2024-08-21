@@ -20,9 +20,9 @@
   </a>
 </p>
 
-### Skills:
+## Skills:
 
-#### Languages:
+### Languages:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert">
   <img src="https://img.shields.io/badge/CSS3-Advanced-blue" alt="CSS3 Advanced">
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Java-Expert-orange" alt="Java Expert">
 </p>
 
-#### Frontend Development:
+### Frontend Development:
 <p align="left">
   <img src="https://img.shields.io/badge/React-Advanced-blue" alt="React Advanced">
   <img src="https://img.shields.io/badge/Redux-Advanced-blue" alt="Redux Advanced">
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/SCSS-Intermediate-yellow" alt="SCSS Intermediate">
 </p>
 
-#### Backend Development:
+### Backend Development:
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-Intermediate-yellow" alt="Node.js Intermediate">
   <img src="https://img.shields.io/badge/Express.js-Intermediate-yellow" alt="Express.js Intermediate">
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Django-Intermediate-yellow" alt="Django Intermediate">
 </p>
 
-#### Databases:
+### Databases:
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-Intermediate-yellow" alt="MongoDB Intermediate">
   <img src="https://img.shields.io/badge/MySQL-Advanced-blue" alt="MySQL Advanced">
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/SQLite-Advanced-blue" alt="SQLite Advanced">
 </p>
 
-#### Tools:
+### Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Git-Expert-orange" alt="Git Expert">
   <img src="https://img.shields.io/badge/GitHub-Expert-orange" alt="GitHub Expert">
