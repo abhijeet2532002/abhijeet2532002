@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" width="128"/>
   </a>
   <a href="https://www.instagram.com/abhijeet2532002/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="150"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="140"/>
   </a>
   <a href="https://leetcode.com/u/abhijeetkumar2532002/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" width="100"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" width="128"/>
   </a>
   <a href="https://www.hackerrank.com/profile/abhijeetkumar251">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" width="100"/>
