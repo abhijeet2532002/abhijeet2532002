@@ -100,9 +100,9 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet2532002&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+&nbsp;</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeet2532002&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeet2532002&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet2532002&theme=radical" alt="GitHub Streak" />
