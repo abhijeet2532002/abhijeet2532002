@@ -63,43 +63,43 @@
 ### 🛠️ Skills:
 #### 💻 Languages:
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert"  width="140" />
-  <img src="https://img.shields.io/badge/CSS3-Expert-orange" alt="CSS3 Expert"  width="140" />
-  <img src="https://img.shields.io/badge/JavaScript-Expert-orange" alt="JavaScript Expert"  width="140" />
-  <img src="https://img.shields.io/badge/Python-Expert-orange" alt="Python Expert"  width="140" />
-  <img src="https://img.shields.io/badge/C++-Expert-orange" alt="C++ Expert"  width="140" />
-  <img src="https://img.shields.io/badge/C%23-Expert-orange" alt="C# Expert"  width="140" />
-  <img src="https://img.shields.io/badge/Java-Expert-orange" alt="Java Expert"  width="140" />
+  <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert" />
+  <img src="https://img.shields.io/badge/CSS3-Expert-orange" alt="CSS3 Expert" />
+  <img src="https://img.shields.io/badge/JavaScript-Expert-orange" alt="JavaScript Expert" />
+  <img src="https://img.shields.io/badge/Python-Expert-orange" alt="Python Expert" />
+  <img src="https://img.shields.io/badge/C++-Expert-orange" alt="C++ Expert" />
+  <img src="https://img.shields.io/badge/C%23-Expert-orange" alt="C# Expert" />
+  <img src="https://img.shields.io/badge/Java-Expert-orange" alt="Java Expert" />
 </p>
 
 #### 🌐 Frontend Development:
 <p align="left">
-  <img src="https://img.shields.io/badge/React-Expert-orange" alt="React Expert"  width="140" />
-  <img src="https://img.shields.io/badge/Redux-Expert-orange" alt="Redux Expert"  width="140" />
-  <img src="https://img.shields.io/badge/Bootstrap-Expert-orange" alt="Bootstrap Expert"  width="140" />
-  <img src="https://img.shields.io/badge/SCSS-Expert-orange" alt="SCSS Expert"  width="140" />
+  <img src="https://img.shields.io/badge/React-Expert-orange" alt="React Expert" />
+  <img src="https://img.shields.io/badge/Redux-Expert-orange" alt="Redux Expert" />
+  <img src="https://img.shields.io/badge/Bootstrap-Expert-orange" alt="Bootstrap Expert" />
+  <img src="https://img.shields.io/badge/SCSS-Expert-orange" alt="SCSS Expert" />
 </p>
 
 #### ⚙️ Backend Development:
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-Expert-orange" alt="Node.js Expert"  width="140" />
-  <img src="https://img.shields.io/badge/Express.js-Expert-orange" alt="Express.js Expert"  width="140" />
-  <img src="https://img.shields.io/badge/Spring Boot-Expert-orange" alt="Spring Boot Expert"  width="140" />
+  <img src="https://img.shields.io/badge/Node.js-Expert-orange" alt="Node.js Expert" />
+  <img src="https://img.shields.io/badge/Express.js-Expert-orange" alt="Express.js Expert" />
+  <img src="https://img.shields.io/badge/Spring Boot-Expert-orange" alt="Spring Boot Expert" />
 </p>
 
 #### 🗄️ Databases:
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-Expert-orange" alt="MongoDB Expert"  width="140" />
-  <img src="https://img.shields.io/badge/MySQL-Expert-orange" alt="MySQL Expert"  width="140" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Expert-orange" alt="PostgreSQL Expert"  width="140" />
+  <img src="https://img.shields.io/badge/MongoDB-Expert-orange" alt="MongoDB Expert" />
+  <img src="https://img.shields.io/badge/MySQL-Expert-orange" alt="MySQL Expert" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Expert-orange" alt="PostgreSQL Expert" />
 </p>
 
 #### 🛠️ Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-Expert-orange" alt="Git Expert"  width="140" />
-  <img src="https://img.shields.io/badge/GitHub-Expert-orange" alt="GitHub Expert"  width="140" />
-  <img src="https://img.shields.io/badge/VS Code-Expert-orange" alt="VS Code Expert"  width="140" />
-  <img src="https://img.shields.io/badge/Heroku-Expert-orange" alt="Heroku Expert"  width="140" />
+  <img src="https://img.shields.io/badge/Git-Expert-orange" alt="Git Expert"  />
+  <img src="https://img.shields.io/badge/GitHub-Expert-orange" alt="GitHub Expert"  />
+  <img src="https://img.shields.io/badge/VS Code-Expert-orange" alt="VS Code Expert"  />
+  <img src="https://img.shields.io/badge/Heroku-Expert-orange" alt="Heroku Expert"  />
 </p>
 
 ---
