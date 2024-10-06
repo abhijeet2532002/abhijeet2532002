@@ -143,5 +143,3 @@
 ### ⚡ Fun Facts:
 - I love coding in coffee shops!
 - I enjoy playing video games in my free time.
-
----
