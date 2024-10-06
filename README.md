@@ -95,16 +95,13 @@
   <img src="https://img.shields.io/badge/Heroku-Expert-orange" alt="Heroku Expert" height="25">
 </p>
 
-## Stats:
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeet2532002&show_icons=true&locale=en" alt="GitHub Stats" height="195" />
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet2532002&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet2532002&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="195" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeet2532002&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet2532002" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet2532002&theme=radical" alt="GitHub Streak" />
 </p>
