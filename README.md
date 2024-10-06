@@ -1,4 +1,3 @@
-![Profile Image](https://www.linkedin.com/in/java-abhijeet/overlay/background-image/)
 
 
 <p align="left">
