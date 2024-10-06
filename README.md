@@ -63,7 +63,7 @@
 ### 🛠️ Skills:
 #### 💻 Languages:
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert"  width="70" />
+  <img src="https://img.shields.io/badge/HTML5-Expert-orange" alt="HTML5 Expert"  width="140" />
   <img src="https://img.shields.io/badge/CSS3-Expert-orange" alt="CSS3 Expert" />
   <img src="https://img.shields.io/badge/JavaScript-Expert-orange" alt="JavaScript Expert" />
   <img src="https://img.shields.io/badge/Python-Expert-orange" alt="Python Expert" />
