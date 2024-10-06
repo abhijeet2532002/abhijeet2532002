@@ -95,6 +95,8 @@
   <img src="https://img.shields.io/badge/Heroku-Expert-orange" alt="Heroku Expert" height="25">
 </p>
 
+---
+
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet2532002&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
