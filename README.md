@@ -1,5 +1,5 @@
 
-![Bg](https://github.com/user-attachments/assets/a62452c7-ba59-4c60-a021-2cd30d3ed827)
+
 
 
 <p align="left">
