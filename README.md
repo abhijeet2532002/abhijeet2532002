@@ -124,3 +124,23 @@
 | [OurNinjas](https://github.com/RaunakShrivastwa/ninjasteam/tree/abhi) | Education Platform.| ⭐️⭐️⭐️⭐️⭐️⭐️ |
 | [Instagram APIs](https://github.com/abhijeet2532002/Social-media-API) | Instagram Rest APIs| ⭐️⭐️⭐️⭐️⭐ |
 | [Banking API](https://github.com/abhijeet2532002/Banking-System) | Banking System Ecosystem API | ⭐️⭐️⭐️⭐️⭐️⭐️ |
+
+---
+
+#### 🔄 Pull Requests:
+- [Feature Enhancement in Let's Work](https://github.com/RaunakShrivastwa/letsWork/commits/shubham) - Improved the functionality by adding new features.
+- [Bug Fix in OurNinjas](https://github.com/RaunakShrivastwa/ninjasteam/commits/dev/) - Resolved issues causing unexpected behavior.
+
+---
+
+### 📚 Learning & Contributions:
+- Contributed to various open-source projects on GitHub.
+- Regularly participate in hackathons and coding challenges to improve skills.
+
+---
+
+### ⚡ Fun Facts:
+- I love coding in coffee shops!
+- I enjoy playing video games in my free time.
+
+---
