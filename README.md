@@ -122,6 +122,10 @@
 
 ---
 
+### StarDev Ranking
+
+<a href="https://stardev.io/developers/abhijeet2532002"><img alt="Check out abhijeet2532002's profile on stardev.io" src="https://stardev.io/developers/abhijeet2532002/badge/languages/locality.svg" /></a>
+
 ### 📝 My Work
 #### 🚀 Repositories:
 | Repository Name             | Description                                  | Stars |
